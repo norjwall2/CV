@@ -1,0 +1,9 @@
+nav ul li {
+  display: inline;
+
+}
+
+nav, footer {
+  display: block;
+  text-align: center;
+}
